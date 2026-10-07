@@ -1,133 +1,53 @@
-#EXTM3U
+<!-- قسم الرياضة -->
+<div class="section-title">⚽ باقة القنوات الرياضية</div>
+<div class="grid-container">
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677012#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 1</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677013#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 2</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677014#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 3</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677015#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 4</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677016#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 5</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677017#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 6</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677018#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 7</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677019#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 8</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649689#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 1</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649690#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 2</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649691#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 3</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649692#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 4</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649693#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 5</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649694#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 6</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649695#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 7</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649696#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 8</div></a>
+</div>
 
-#EXTINF:-1 tvg-name="beIN Sports 1" tvg-logo="https://lo1.in/bss/bsS1.png", beIN Sports 1
-http://tyqw.site:2052/10675785266958/99039021857485/677012
-
-#EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="https://lo1.in/bss/bsS2.png", beIN Sports 2
-http://tyqw.site:2052/10675785266958/99039021857485/677013
-
-#EXTINF:-1 tvg-name="beIN Sports 3" tvg-logo="https://lo1.in/bss/bs3.png", beIN Sports 3
-http://tyqw.site:2052/10675785266958/99039021857485/677014
-
-#EXTINF:-1 tvg-name="beIN Sports 4" tvg-logo="https://lo1.in/bss/bs4.png", beIN Sports 4
-http://tyqw.site:2052/10675785266958/99039021857485/677015
-
-#EXTINF:-1 tvg-name="beIN Sports 5" tvg-logo="https://lo1.in/bein/beinn5.png", beIN Sports 5
-http://tyqw.site:2052/10675785266958/99039021857485/677016
-
-#EXTINF:-1 tvg-name="beIN Sports 6" tvg-logo="https://lo1.in/bein/beinn6.png", beIN Sports 6
-http://tyqw.site:2052/10675785266958/99039021857485/677017
-
-#EXTINF:-1 tvg-name="beIN Sports 7" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png", beIN Sports 7
-http://tyqw.site:2052/10675785266958/99039021857485/677018
-
-#EXTINF:-1 tvg-name="beIN Sports 8" tvg-logo="https://lo1.in/bss/bss8.png", beIN Sports 8
-http://tyqw.site:2052/10675785266958/99039021857485/677019
-
-#EXTINF:-1 tvg-name="Alwan Sport 1" tvg-logo="https://lo1.in/fwc/ALWANS.png", Alwan Sport 1
-http://tyqw.site:2052/10675785266958/99039021857485/649689
-
-#EXTINF:-1 tvg-name="Alwan Sport 2" tvg-logo="http://lo1.in/fwc/ALWANS.png", Alwan Sport 2
-http://tyqw.site:2052/10675785266958/99039021857485/649690
-
-#EXTINF:-1 tvg-name="Alwan Sport 3" tvg-logo="http://lo1.in/fwc/ALWANS.png", Alwan Sport 3
-http://tyqw.site:2052/10675785266958/99039021857485/649691
-
-#EXTINF:-1 tvg-name="Alwan Sport 4" tvg-logo="http://lo1.in/fwc/ALWANS.png", Alwan Sport 4
-http://tyqw.site:2052/10675785266958/99039021857485/649692
-
-#EXTINF:-1 tvg-name="Alwan Sport 5" tvg-logo="http://lo1.in/fwc/ALWANS.png", Alwan Sport 5
-http://tyqw.site:2052/10675785266958/99039021857485/649693
-
-#EXTINF:-1 tvg-name="Alwan Sport 6" tvg-logo="http://lo1.in/fwc/ALWANS.png", Alwan Sport 6
-http://tyqw.site:2052/10675785266958/99039021857485/649694
-
-#EXTINF:-1 tvg-name="Alwan Sport 7" tvg-logo="http://lo1.in/fwc/ALWANS.png", Alwan Sport 7
-http://tyqw.site:2052/10675785266958/99039021857485/649695
-
-#EXTINF:-1 tvg-name="Alwan Sport 8" tvg-logo="http://lo1.in/fwc/ALWANS.png", Alwan Sport 8
-http://tyqw.site:2052/10675785266958/99039021857485/649696
-
-#EXTINF:-1 tvg-name="BEIN MOVIES 1" tvg-logo="https://lo1.in/beinn/beinm1pre0.png", BEIN MOVIES 1
-http://tyqw.site:2052/10675785266958/99039021857485/427
-
-#EXTINF:-1 tvg-name="BEIN MOVIES 2" tvg-logo="https://lo1.in/beinn/beinm2act0.png", BEIN MOVIES 2
-http://tyqw.site:2052/10675785266958/99039021857485/428
-
-#EXTINF:-1 tvg-name="BEIN MOVIES 3" tvg-logo="https://lo1.in/beinn/bm3.png", BEIN MOVIES 3
-http://tyqw.site:2052/10675785266958/99039021857485/429
-
-#EXTINF:-1 tvg-name="BEIN MOVIES 4" tvg-logo="https://lo1.in/beinn/beinm4famm.png", BEIN MOVIES 4
-http://tyqw.site:2052/10675785266958/99039021857485/430
-
-#EXTINF:-1 tvg-name="BEIN SERIES 1" tvg-logo="https://lo1.in/beinn/beinser100.png", BEIN SERIES 1
-http://tyqw.site:2052/10675785266958/99039021857485/431
-
-#EXTINF:-1 tvg-name="BEIN SERIES 2" tvg-logo="https://lo1.in/beinn/beinser20.png", BEIN SERIES 2
-http://tyqw.site:2052/10675785266958/99039021857485/432
-
-#EXTINF:-1 tvg-name="BEIN DRAMA" tvg-logo="https://lo1.in/FCB/beinet.png", BEIN DRAMA
-http://tyqw.site:2052/10675785266958/99039021857485/433
-
-#EXTINF:-1 tvg-name="ViVo OSCAR" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo OSCAR
-http://tyqw.site:2052/10675785266958/99039021857485/192835
-
-#EXTINF:-1 tvg-name="ViVo CLUB" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo CLUB
-http://tyqw.site:2052/10675785266958/99039021857485/192834}
-
-#EXTINF:-1 tvg-name="ViVo SHOWTIME" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo SHOWTIME
-http://tyqw.site
-
-#EXTINF:-1 tvg-name="ViVo PLUS" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo PLUS
-http://tyqw.site:2052/10675785266958/99039021857485/192837
-
-#EXTINF:-1 tvg-name="ViVo MOVIES" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo MOVIES
-http://tyqw.site:2052/10675785266958/99039021857485/192838
-
-#EXTINF:-1 tvg-name="ViVo SENTRAL" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo SENTRAL
-http://tyqw.site:2052/10675785266958/99039021857485/192839
-
-#EXTINF:-1 tvg-name="ViVo ONLINE" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo ONLINE
-http://tyqw.site:2052/10675785266958/99039021857485/192842
-
-#EXTINF:-1 tvg-name="ViVo CRYSTAL" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo CRYSTAL
-http://tyqw.site:2052/10675785266958/99039021857485/192843
-
-#EXTINF:-1 tvg-name="ViVo WAR TIME" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/650/800/non_2x/vivo-logo-rounded-vivo-logo-free-png.png", ViVo WAR TIME
-http://tyqw.site:2052/10675785266958/99039021857485/192841
-
-#EXTINF:-1 tvg-name="Signal Comedy" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal Comedy
-http://tyqw.site:2052/10675785266958/99039021857485/192634
-
-#EXTINF:-1 tvg-name="Signal Action" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal Action
-http://tyqw.site:2052/10675785266958/99039021857485/192633
-
-#EXTINF:-1 tvg-name="Signal Cinema" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal Cinema
-http://tyqw.site:2052/10675785266958/99039021857485/192635
-
-#EXTINF:-1 tvg-name="Signal AFLAM" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal AFLAM
-http://tyqw.site:2052/10675785266958/99039021857485/192636
-
-#EXTINF:-1 tvg-name="Signal CLASSIC" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal CLASSIC
-http://tyqw.site:2052/10675785266958/99039021857485/192637
-
-#EXTINF:-1 tvg-name="Signal 90s" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal 90s
-http://tyqw.site:2052/10675785266958/99039021857485/192638
-
-#EXTINF:-1 tvg-name="Signal VOX" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal VOX
-http://tyqw.site:2052/10675785266958/99039021857485/192639
-
-#EXTINF:-1 tvg-name="Signal GOLD" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal GOLD
-http://tyqw.site:2052/10675785266958/99039021857485/192640
-
-#EXTINF:-1 tvg-name="Signal ANIME" tvg-logo="https://images.seeklogo.com/logo-png/12/2/signal-logo-png_seeklogo-126441.png", Signal ANIME
-http://tyqw.site:2052/10675785266958/99039021857485/192642
-
-#EXTINF:-1 tvg-name="SHAHID ACTION" tvg-logo="https://lo1.in/fwc/shahid.png", SHAHID ACTION
-http://tyqw.site:2052/10675785266958/99039021857485/192749
-
-#EXTINF:-1 tvg-name="SHAHID Comedy" tvg-logo="https://lo1.in/fwc/shahid.png", SHAHID Comedy
-http://tyqw.site:2052/10675785266958/99039021857485/192739
-
-#EXTINF:-1 tvg-name="SHAHID MARVEL" tvg-logo="https://lo1.in/fwc/shahid.png", SHAHID MARVEL
-http://tyqw.site
+<!-- باقة الافلام والمسلسلات -->
+<div class="section-title">🎬 باقة قنوات الافلام والاثارة والتشويق</div>
+<div class="grid-container">
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/427#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 1</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/428#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 2</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/429#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 3</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/430#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 4</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/431#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN SERIES 1</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/432#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN SERIES 2</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/433#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN دراما</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192835#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo OSCAR</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192834#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo CLUB</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192836#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo SHOWTIME</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192837#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo PLUS</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192838#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo MOVIES</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192839#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo SENTRAL</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192842#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo ONLINE</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192843#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo CRYSTAL</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192841#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo WAR TIME</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192634#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal Comedy</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192633#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal Action</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192635#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal Cinema</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192636#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal AFLAM</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192637#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal CLASSIC</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192638#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal 90s</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192639#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal VOX</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192640#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal GOLD</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192642#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal ANIME</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192749#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>SHAHID ACTION</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192739#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>SHAHID Comedy</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192750#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>SHAHID MARVEL</div></a>
+</div>
