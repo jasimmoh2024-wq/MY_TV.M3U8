@@ -1,7 +1,7 @@
 <!-- قسم الرياضة -->
 <div class="section-title">⚽ باقة القنوات الرياضية</div>
 <div class="grid-container">
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677012#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 1</div></a>
+    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677012#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div "logo":"https://lo1.in/bss/bsS1.png">⚽</div><div>beIN Sports 1</div></a>
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677013#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 2</div></a>
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677014#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 3</div></a>
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677015#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 4</div></a>
@@ -17,11 +17,6 @@
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649694#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 6</div></a>
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649695#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 7</div></a>
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649696#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 8</div></a>
-</div>
-
-<!-- باقة الافلام والمسلسلات -->
-<div class="section-title">🎬 باقة قنوات الافلام والاثارة والتشويق</div>
-<div class="grid-container">
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/427#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 1</div></a>
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/428#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 2</div></a>
     <a href="intent://tyqw.site:2052/10675785266958/99039021857485/429#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 3</div></a>
