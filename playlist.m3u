@@ -1,48 +1,53 @@
-<!-- قسم الرياضة -->
-<div class="section-title">⚽ باقة القنوات الرياضية</div>
-<div class="grid-container">
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677012#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div "logo":"https://lo1.in/bss/bsS1.png">⚽</div><div>beIN Sports 1</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677013#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 2</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677014#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 3</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677015#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 4</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677016#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 5</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677017#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 6</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677018#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 7</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/677019#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>beIN Sports 8</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649689#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 1</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649690#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 2</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649691#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 3</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649692#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 4</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649693#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 5</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649694#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 6</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649695#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 7</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/649696#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">⚽</div><div>Alwan Sport 8</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/427#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 1</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/428#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 2</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/429#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 3</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/430#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN movies 4</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/431#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN SERIES 1</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/432#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN SERIES 2</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/433#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>beIN دراما</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192835#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo OSCAR</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192834#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo CLUB</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192836#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo SHOWTIME</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192837#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo PLUS</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192838#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo MOVIES</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192839#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo SENTRAL</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192842#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo ONLINE</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192843#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo CRYSTAL</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192841#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>ViVo WAR TIME</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192634#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal Comedy</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192633#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal Action</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192635#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal Cinema</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192636#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal AFLAM</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192637#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal CLASSIC</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192638#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal 90s</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192639#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal VOX</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192640#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal GOLD</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192642#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>Signal ANIME</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192749#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>SHAHID ACTION</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192739#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>SHAHID Comedy</div></a>
-    <a href="intent://tyqw.site:2052/10675785266958/99039021857485/192750#Intent;scheme=http;package=org.videolan.vlc;type=video/*;end" class="channel-card"><div class="channel-icon">📺</div><div>SHAHID MARVEL</div></a>
-</div>
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/1.m3u8"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2f/BeIN_Sports_1_%282014%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 4"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/2.m3u8"><img src="https://static.wikia.nocookie.net/logopedia/images/8/87/BeIN_Sports_2_2014.png/revision/latest?cb=20230616100740" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 2"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/3.m3u8"><img src="https://w7.pngwing.com/pngs/600/309/png-transparent-bein-sports-1-bein-channels-network-bein-sports-2-others-purple-violet-text.png" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 3"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/4.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1sJwVTzRUcNoisrDinSPlK9oAzgTCEg7KlIX-IPEQGatghCrwg&s&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 4"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/5.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToODTKqCc6GJBe8yjVFE8xX_lmQcQLAfaJX33p9SMTZGrTQFCJA&s&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 3"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/6.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjF_-oHiU9X1EVEjcc-BCHfSoYiXYqJT-teybZZbFI40qPoo11Jg&s&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 6"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/7.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJnE8PMtIjCmAWIlq3ei3SsS811x91tli8T8kiJ9rNcX3gDA3ag&s&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 7"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/8.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5P1vtFKkZjFS570q9OD0I-a7qTl1Ma2akfTxnnvAgN0BYaSbykw&s&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 8"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/9.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowPfUbfV8VxIyaCf01srLAutIXe3j0PGSPRvYALL6T0NlseNYH9AVyqLI9fSTDf8&s=10&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="Alwan Sport 1"></a>
+       
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/10.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowPfUbfV8VxIyaCf01srLAutIXe3j0PGSPRvYALL6T0NlseNYH9AVyqLI9fSTDf8&s=10&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="Alwan Sport 2"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/11.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowPfUbfV8VxIyaCf01srLAutIXe3j0PGSPRvYALL6T0NlseNYH9AVyqLI9fSTDf8&s=10&ec=121966411" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="Alwan Sport 3"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/12.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowPfUbfV8VxIyaCf01srLAutIXe3j0PGSPRvYALL6T0NlseNYH9AVyqLI9fSTDf8&s=10&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="Alwan Sport 4"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/13.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowPfUbfV8VxIyaCf01srLAutIXe3j0PGSPRvYALL6T0NlseNYH9AVyqLI9fSTDf8&s=10&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="Alwan Sport 5"></a>
+
+            <a href="https://iptv-proxy-wjpz.onrender.com/live/33.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowPfUbfV8VxIyaCf01srLAutIXe3j0PGSPRvYALL6T0NlseNYH9AVyqLI9fSTDf8&s=10&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="Alwan Sport 6"></a>
+
+            <a href="https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"><img src="https://i.pinimg.com/736x/b3/11/15/b31115f261074f761417eb0add7035c6.jpg" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="شاهد افلام 1"></a>
+
+            <a href="https://shd-amg-fast.edgenextcdn.net/tx007/playlist.m3u8"><img src="https://i.pinimg.com/736x/b3/11/15/b31115f261074f761417eb0add7035c6.jpg" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="شاهد افلام 2"></a>
+
+            <a href="http://tyqw.site:2052/10675785266958/99039021857485/677012"><img src="https://lo1.in/bss/bsS1.png" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 1"></a>
+
+            <a href="http://tyqw.site:2052/10675785266958/99039021857485/677013"><img src="https://lo1.in/bss/bsS2.png" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 2"></a>
+  
+            <a href="http://tyqw.site:2052/10675785266958/99039021857485/677014"><img src="https://lo1.in/bss/bs3.png" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 3"></a>
+
+            <a href="http://tyqw.site:2052/10675785266958/99039021857485/677015"><img src="https://lo1.in/bss/bs4.png" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 4"></a>
+
+            <a href="http://tyqw.site:2052/10675785266958/99039021857485/677016"><img src="beIN Sports 5" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 5"></a>
+
+            <a href="http://tyqw.site:2052/10675785266958/99039021857485/677017"><img src="beIN Sports 6" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 6"></a>
+
+            <a href="http://tyqw.site:2052/10675785266958/99039021857485/677018"><img src="https://lo1.in/bss/BEIN SPORTS 07.png" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 7"></a>
+          
+            <a href="http://tyqw.site:2052/10675785266958/99039021857485/677019"><img src="https://lo1.in/bss/bss8.png" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="beIN Sports 8"></a>
+ 
+            <a href="https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8"><img src="https://i.pinimg.com/736x/b3/11/15/b31115f261074f761417eb0add7035c6.jpg" style="height: 100px; width: auto; display: block; margin: 0 auto;" alt="شاهد 9"></a>
+
+            <a href="https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKQPKNmDOWMytc-rhiWh3l0BGjupW-Lb5EfjAt_eGJKZ6nhOaUg&s&ec=121966410" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="MBC Iraq"></a>
+
+           <a href="https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=original" style="height: 70px; width: auto; display: block; margin: 0 auto;" alt="شاهد 9"></a>
